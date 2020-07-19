@@ -1,4 +1,5 @@
 **内容更新于：2020/03/31 23:05**
+**本项目复刻自[shujuliu/AO3-Mirror-Site](https://github.com/shujuliu/AO3-Mirror-Site) ，原项目已停止更新。**
 # 前置彩蛋（二创自《刺客信条》）
 * 我们是无形者，我们是守护者。
 * 当世人被物质或事件的外表所迷惑，盲目追求虚幻的现实之时，请记住：万物皆虚。
@@ -16,32 +17,54 @@
 AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原创及二创作品的非营利性开源储存网站。该网站于2008年由再创作组织创建，并与2009年开始公测。截至2019年，AO3作品库为超过35,000个同人圈保存了近550万件作品。2020年2月29日，AO3作品库在中国大陆地区被防火长城屏蔽。3月1日，据多家媒体报道，此次屏蔽因中国大陆男艺人肖战粉丝不满有同人作品侵犯艺人权益进而举报至政府所致。
 
 # 关于本项目
-本项目致力于在AO3被屏蔽期间，保证其可访问性。
-本项目由[数据流](https://github.com/orgs/shujuliu)的AO3 Rebirth Team维护。
+原项目致力于在AO3被屏蔽期间，保证其可访问性。
 
-# 镜像网站
-**以下链接均为非官方链接，可能存在风险。**
-**以下链接的排列顺序由推荐指数决定，建议优先选择排名靠前的链接。**
-**以下未被认领的未知来源链接，可通过出示相关证明信息的方法领取。**
+原项目由[数据流](https://github.com/orgs/shujuliu)的AO3 Rebirth Team维护。
 
-## 独立镜像
+本项目由[Rika](https://github.com/RikaSugisawa)在2020年7月15日前后Lofter处的文档被封停后转至此处维护。
 
-### 已公开的镜像
-- [NIGHTALKSPACE](https://nightalk.space/)——该通道由某个匿名志愿者提供
-- [PIG123XYZ](https://pig123.xyz/)——该通道由[233](https://github.com/233boy)提供
-- [AO3WTF](https://ao3.wtf/)——该通道由[ExcitedCodes](https://github.com/ExcitedCodes)提供
-- [AO4TOP](https://ao4.top/)——该通道由[@雅美城城主](https://weibo.com/u/6693225582)提供，从微博AO3超话中收集
-- [AO3CNTOP](https://ao3-cn.top/)——该通道由[FutureAppleWei](https://lo-li.icu/archives/AO3.html)提供，从微博AO3超话中收集
-- [AO3PW](https://ao3.pw/)——该通道由[RikaSugisawa](https://github.com/RikaSugisawa)提供
-- [VIAHYPOTHESIS](https://via.hypothes.is/https://archiveofourown.org/)——从微博AO3超话中收集，来源未知
-- [PROJECTSTARDUST](https://www.projectstardust.org/)——该通道由[SorenEricMent](https://www.winsloweric.cn/)提供，从知乎中收集
-- [AO32YOURSEOBOOKXYZ](https://ao3-2.yourseobook.xyz/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
-- [AO3MIRROR3CHINANOVELDE](https://ao3-mirror-3.chinanovel.de/)——该通道由[ChinaNovel.DE](https://ao3-bbs.chinanovel.de/)提供
+# 前言
+提请您注意，任何的反代/镜像站点均存在风险，使用时风险自担。
 
-### 未公开的镜像
-- [AO3ORGCN](https://ao3.org.cn/)——由穷举法得出，来源未知
-- [AO3CLUB](https://archiveofourown.club/)——由穷举法得出，来源未知
+有些站点可能不定期抽风，进不去就换一个试试。有些站点可能做了一些修改，比如公告页、分流页、反爬虫措施等，根据提示操作即可。
 
+2020年4月20日更新，存档了数个不再能在中国大陆直接访问的站点，添加了一些其他途径收集的站点。添加FAQ。将用词「镜像」改为「反代」，措辞更严谨。
+
+2020年6月13日更新，存档了数个不再能在中国大陆直接访问的站点。
+
+2020年7月3日更新。
+
+* https://ao3.pw/ ——由[Rika](https://github.com/RikaSugisawa)提供
+
+* https://www.projectstardust.org/ ——由[SorenEricMent](https://www.zhihu.com/people/SorenEricMent)提供，从知乎中收集
+
+* https://ao3.org.cn/ ——由[@撒谎小虚空](https://www.lofter.com/mentionredirect.do?blogId=541866534)提供
+
+以下是从其他途径收集的站点，来源均未知
+
+*   https://exao3.xyz/
+
+以下站点似乎不再能从中国大陆直接访问，R. I. P.。不过如果您发现它们又可用了可以留言备注，暂时无法分辨是被访问管制还是自主停止服务，如果您有意愿的话，可以联系Rika获得建站的技术支持。
+
+*  https://ao4.top/
+
+*  https://via.hypothes.is/https://archiveofourown.org/
+
+*  https://nightalk.space/
+
+*  https://pig123.xyz/
+
+*  https://ao3-cn.top/
+
+*  https://archiveo3.xyz/
+
+*  https://ao3-mirror-3.chinanovel.de/ 
+
+*  https://ao3-2.yourseobook.xyz/
+
+被建站者不推荐访问的站点
+
+* https://ao3.wtf/
 
 ## 镜像搭建方法
 1. [URLOfOurOwn](https://github.com/ExcitedCodes/URLOfOurOwn)——该方法由[ExcitedCodes](https://github.com/ExcitedCodes)提供
@@ -50,20 +73,26 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 1. 建议收藏本项目以获得最新的镜像网址信息。
 2. 当遇到Retry Later时可通过Ctrl+F5刷新，若多次刷新无果，建议选择另一个镜像网址。
 
-# Q&A
-Q:我可以加入吗？请问如何加入？     
-A:Sure，每个人都可以。通过提[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)的方式申请，建议附上联系方式。
 
-Q:地址无法进入一直转圈圈怎么办？     
-A:多次确认，更换浏览器也无法进入时，说明地址问题，考虑更换地址并提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
+# FAQ
 
-Q:这个文档出现信息错误怎么办，我希望更新这个文档怎么办？     
-A:可以选择提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
+### Q: 有些站点用不了呀！
 
-Q:哦天哪，Q&A中没有我想要问的问题该怎么办？     
-A:可以选择提交[issue](https://github.com/shujuliu/AO3-Mirror-Site/issues)或发送邮件至shujuliu@protonmail.com
+A: 它可能是不定期抽风，也可能是永久性去世，不过更常见的是您所在的网络环境不适合使用此站点，可以换另外一个试试。Rika会定期更新列表。
 
+### Q: 这是怎么做的呀？
 
+A: 基本原理都是反向代理，主流的反向代理解决方案为Nginx，具体实现方式可以参考这篇文章，非常欢迎您出一份力。顺便提醒一下，请一定要部署SSL。
+
+### Q: 使用这些网站会有风险吗？
+
+A: 严肃提醒：使用任何反代/镜像网站都存在风险。具体来说，网站的搭建者可以在你不知道的情况下查看你的包括但不限于浏览记录、帐号密码（如果你使用了登录功能）等信息。尽管Rika，可能也包括一些其他的站点搭建者，承诺不会收集用户的任何个人隐私，我们也相信大部分站点是安全的，但由于用户没有任何方法验证这一点，请各位还是稍稍注意。
+
+同时，不仅仅是镜像网站，请尽量避免访问任何的非https网站（网址不是由https而是http开头的），尤其避免在如此的网站上输入用户名和密码，除非你清楚自己所冒的风险——这些信息几乎就是在互联网上裸奔。因此，原则上本列表仅收录https站点。（当然，站长都明白这一点，目前看到的站点都是https的）
+
+### Q: 接受捐赠吗？
+
+A: 在Rika这边建站后收到了一些捐赠，因此目前暂时关闭，等到捐款消耗到一定程度时会再次开启。其他站点的捐赠事项可以查看站内公告或详询站长。镜像站的费用大概是1r/day起步，更流畅的访问当然需要更多资金。各站长会根据自己的情况决定接受捐赠，大概吧。
 
 
 
