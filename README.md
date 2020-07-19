@@ -1,4 +1,4 @@
-**内容更新于：2020年7月19日 14:15:57**
+**内容更新于：2020年7月19日 22:42:13**
 
 **本项目复刻自[shujuliu/AO3-Mirror-Site](https://github.com/shujuliu/AO3-Mirror-Site) ，原项目已停止更新。**
 
@@ -34,7 +34,7 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 
 2020年6月13日更新，存档了数个不再能在中国大陆直接访问的站点。
 
-2020年7月3日更新。
+2020年7月19日起不再记录更新过程，可查看[Commits记录](https://github.com/RikaSugisawa/AO3-Mirror-Site/commits/master/README.md)
 
 * https://ao3.pw/ ——由[Rika](https://github.com/RikaSugisawa)提供
 
@@ -45,6 +45,8 @@ AO3作品库（英语：Archive of Our Own；缩写：AO3）是一个存放原�
 以下是从其他途径收集的站点，来源均未知
 
 *   https://exao3.xyz/
+
+*   https://xiaozhan.icu/
 
 以下站点似乎不再能从中国大陆直接访问，R. I. P.。不过如果您发现它们又可用了可以留言备注，暂时无法分辨是被访问管制还是自主停止服务，如果您有意愿的话，可以联系Rika获得建站的技术支持。
 
